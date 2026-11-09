@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-09",
-  "note": "SUDHU HTML cholbe - JSON cholbe na. Notun file add korle version barate hobe.",
+  "note": "SUDHU HTML cholbe. V162 jsDelivr fallback.",
   "files": [
     "questions-biology-Q3-chitro-fixed.html"
   ]
